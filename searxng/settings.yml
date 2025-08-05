@@ -17,7 +17,7 @@ search:
   autocomplete: ''
   autocomplete_min: 4
   favicon_resolver: ''
-  default_lang: auto
+  default_lang: zh-CN
   ban_time_on_fail: 5
   max_ban_time_on_fail: 120
   suspended_times:
