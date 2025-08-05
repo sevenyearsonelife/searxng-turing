@@ -5,7 +5,7 @@
     {
       "url": "https://visionthai.net/zh-hans/article/thailands-loy-krathong-festival/",
       "title": "泰国水灯节除了放天灯、水灯外，这6大习俗不能错过！ - Vision Thai 看見泰國",
-      "content": "2024年11月11日 - 泰国文化与节庆 / 泰国旅游 / 泰国自由行攻略必看 / 泰国节庆 · 看見泰國編輯團隊",
+      "content": "除了清迈水灯节可以参加之外，曼谷、大城、素可泰也都能感受这个美丽的节庆氛围。 除了可以体验放水灯祈福，或是到清迈放天灯之外，还有哪些传统习俗可以体验呢？ 快跟着看见泰国小编看下去吧。",
       "publishedDate": null,
       "thumbnail": "",
       "engine": "brave",
@@ -50,6 +50,32 @@
       "priority": "",
       "engines": [
         "360search"
+      ],
+      "positions": [
+        1
+      ],
+      "score": 1,
+      "category": "general"
+    },
+    {
+      "url": "https://chiculture.org.hk/sc/school-program/3922",
+      "title": "学科教学锦囊：公民与社会发展科",
+      "content": "2024年12月30日 — 配合高中公民与社会发展科，按照科目的学习重点，整合资源，为学科的学与教提供源源不断的支援。",
+      "thumbnail": null,
+      "engine": "google",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "chiculture.org.hk",
+        "/sc/school-program/3922",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "google"
       ],
       "positions": [
         1
@@ -112,16 +138,17 @@
       "category": "general"
     },
     {
-      "url": "https://chiculture.org.hk/sc/school-program/3922",
-      "title": "学科教学锦囊：公民与社会发展科",
-      "content": "2024年12月30日 — 配合高中公民与社会发展科，按照科目的学习重点，整合资源，为学科的学与教提供源源不断的支援。",
-      "thumbnail": null,
-      "engine": "google",
+      "url": "https://www.agoda.com/zh-cn/travel-guides/thailand/experience-loy-krathong-thailands-magical-festival-of-lights/",
+      "title": "体验水灯节：泰国神奇的灯光节 » Agoda: See The World For Less",
+      "content": "参加水灯节是一次难忘的经历,但必须做好准备。以下是一些方便的提示,以确保您的音乐节体验顺利愉快: 安全第一:时刻注意您的财物,尤其是在拥挤的地方。晚上坚持去光线充足的地方,并注意周围的环境。 文化礼仪:参观寺庙时穿着得体,参加当地习俗时要尊重他人。这是一个庆祝的时刻,也是反思的时刻。",
+      "publishedDate": "2025-03-03T16:00:00",
+      "thumbnail": "",
+      "engine": "brave",
       "template": "default.html",
       "parsed_url": [
         "https",
-        "chiculture.org.hk",
-        "/sc/school-program/3922",
+        "www.agoda.com",
+        "/zh-cn/travel-guides/thailand/experience-loy-krathong-thailands-magical-festival-of-lights/",
         "",
         "",
         ""
@@ -129,12 +156,16 @@
       "img_src": "",
       "priority": "",
       "engines": [
-        "google"
+        "brave",
+        "duckduckgo",
+        "baidu"
       ],
       "positions": [
-        1
+        12,
+        8,
+        10
       ],
-      "score": 1,
+      "score": 0.925,
       "category": "general"
     },
     {
@@ -156,6 +187,32 @@
       "priority": "",
       "engines": [
         "360search"
+      ],
+      "positions": [
+        2
+      ],
+      "score": 0.5,
+      "category": "general"
+    },
+    {
+      "url": "https://www.nblong.com/sitemap.xml",
+      "title": "网站地图 - 华会体育官网app下载入口-华体育登录",
+      "content": "2025年4月22日 — 香港海洋公园一日游攻略还有熊猫周边等着你！ 0.8, Daily, 2025-04-21 08:12:19. 西安旅行全攻略：千年古都的前史与美食盛宴 ...",
+      "thumbnail": null,
+      "engine": "google",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.nblong.com",
+        "/sitemap.xml",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "google"
       ],
       "positions": [
         2
@@ -220,7 +277,7 @@
     {
       "title": "泰国6大传统文化节日_清迈_活动_素可泰",
       "url": "https://www.sohu.com/a/909717136_121124434",
-      "content": "清迈是泰国水灯节的重要庆祝地，当地称为「Yi Peng Festival」，意为兰纳历第二个满月之日。 除在屏河放水灯祈福外，还有花车游行、选美、万人放天灯及兰纳传统表演。",
+      "content": "泰国水灯节是什么时候？水灯节不仅是泰国的传统节日，也盛行于老挝、斯里兰卡、柬埔寨和缅甸部分地区，通常在每年公历11月（泰历12月15日）月圆之夜举行，2024年的活动定于11月15日至16日多地展开。",
       "engine": "duckduckgo",
       "template": "default.html",
       "parsed_url": [
@@ -244,61 +301,6 @@
       "category": "general"
     },
     {
-      "url": "https://www.nblong.com/sitemap.xml",
-      "title": "网站地图 - 华会体育官网app下载入口-华体育登录",
-      "content": "2025年4月22日 — 香港海洋公园一日游攻略还有熊猫周边等着你！ 0.8, Daily, 2025-04-21 08:12:19. 西安旅行全攻略：千年古都的前史与美食盛宴 ...",
-      "thumbnail": null,
-      "engine": "google",
-      "template": "default.html",
-      "parsed_url": [
-        "https",
-        "www.nblong.com",
-        "/sitemap.xml",
-        "",
-        "",
-        ""
-      ],
-      "img_src": "",
-      "priority": "",
-      "engines": [
-        "google"
-      ],
-      "positions": [
-        2
-      ],
-      "score": 0.5,
-      "category": "general"
-    },
-    {
-      "url": "https://www.agoda.com/zh-cn/travel-guides/thailand/experience-loy-krathong-thailands-magical-festival-of-lights/",
-      "title": "体验水灯节：泰国神奇的灯光节 » Agoda: See The World For Less",
-      "content": "参加水灯节是一次难忘的经历,但必须做好准备。以下是一些方便的提示,以确保您的音乐节体验顺利愉快: 安全第一:时刻注意您的财物,尤其是在拥挤的地方。晚上坚持去光线充足的地方,并注意周围的环境。 文化礼仪:参观寺庙时穿着得体,参加当地习俗时要尊重他人。这是一个庆祝的时刻,也是反思的时刻。",
-      "publishedDate": "2025-03-03T16:00:00",
-      "thumbnail": "",
-      "engine": "brave",
-      "template": "default.html",
-      "parsed_url": [
-        "https",
-        "www.agoda.com",
-        "/zh-cn/travel-guides/thailand/experience-loy-krathong-thailands-magical-festival-of-lights/",
-        "",
-        "",
-        ""
-      ],
-      "img_src": "",
-      "priority": "",
-      "engines": [
-        "brave",
-        "baidu"
-      ],
-      "positions": [
-        12,
-        8
-      ],
-      "score": 0.41666666666666663,
-      "category": "general"
-    },
-    {
       "title": "2015泰国清迈水灯节、天灯节最全攻略",
       "url": "https://www.sohu.com/a/39957093_106747",
       "content": "历史遗迹公园的水灯节活动是泰国规模最大的节庆之一,现场会搭配华丽的声光秀,重现... 水灯节期间,泰国全境都会举行丰富多样的节庆活动,暹罗飞...",
@@ -317,6 +319,32 @@
       "priority": "",
       "engines": [
         "360search"
+      ],
+      "positions": [
+        3
+      ],
+      "score": 0.3333333333333333,
+      "category": "general"
+    },
+    {
+      "url": "https://www.hzoto.com/sitemap.xml",
+      "title": "网站地图 - 乐虎体育nba直播主播",
+      "content": "2025年6月23日 — 年过40女人穿搭大揭秘看完让你秒变优雅有女人味, 0.8, Daily, 2024-12-12 06:13:58 ... 泰国本地人熬夜收拾4日游道路清迈四天三夜出行必备清单共享, 0.8, Daily, 2025 ...",
+      "thumbnail": null,
+      "engine": "google",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.hzoto.com",
+        "/sitemap.xml",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "google"
       ],
       "positions": [
         3
@@ -379,17 +407,17 @@
       "category": "general"
     },
     {
-      "title": "清迈水灯节——飘在风中的传说 - 蚂蜂窝 - mafengwo.cn",
-      "url": "https://itf.mafengwo.cn/client/note.php/info/?id=5354388",
-      "content": "水灯节是泰国的传统节日，特别是清迈的水灯节在全泰国最盛大、最热闹，清迈的万人天灯被誉为泰国七大奇迹之一，每年11月末水灯节期间，清迈都要举行诵经祈福仪式、水灯制作比赛、选美比赛、花车游行、焰火表演等丰富多彩的活动，真的是愈夜愈美丽，令人眼花缭乱。 水灯节期间，清迈大街小巷和家家户户都会挂满灯笼，人们就象过年一样，都会手捧各式各样的水灯到河边漂放，或祈求爱情永远，或祝福家人平安幸福。 许完心愿后，再把水灯放在水面上，让其随着水流而去……水灯节之夜，郊外的Lanna Dhutanka Buddhist Center会举行盛大的万人天灯仪式，当万盏天灯一起升空时，漫天灯火随风摇曳，如星空绚烂，如银河璀璨，惊艳了黑夜，场面壮观而震撼。",
+      "title": "泰国水灯节，必去五大庙宇探寻传统节日奥秘 - 一签泰国网",
+      "url": "http://www.ntycg.com/27885.html",
+      "content": "门票可通过携程、淘宝等网络平台，旅行社或清迈当地的代理购买，对于想要观赏清迈水灯节的游客，推荐参观宁曼路（Nimman Haemin Road），这里是清迈的时尚潮流聚集地，无需门票，全天开放。",
       "engine": "duckduckgo",
       "template": "default.html",
       "parsed_url": [
-        "https",
-        "itf.mafengwo.cn",
-        "/client/note.php/info/",
+        "http",
+        "www.ntycg.com",
+        "/27885.html",
         "",
-        "id=5354388",
+        "",
         ""
       ],
       "img_src": "",
@@ -397,32 +425,6 @@
       "priority": "",
       "engines": [
         "duckduckgo"
-      ],
-      "positions": [
-        3
-      ],
-      "score": 0.3333333333333333,
-      "category": "general"
-    },
-    {
-      "url": "https://www.hzoto.com/sitemap.xml",
-      "title": "网站地图 - 乐虎体育nba直播主播",
-      "content": "2025年6月23日 — 年过40女人穿搭大揭秘看完让你秒变优雅有女人味, 0.8, Daily, 2024-12-12 06:13:58 ... 泰国本地人熬夜收拾4日游道路清迈四天三夜出行必备清单共享, 0.8, Daily, 2025 ...",
-      "thumbnail": null,
-      "engine": "google",
-      "template": "default.html",
-      "parsed_url": [
-        "https",
-        "www.hzoto.com",
-        "/sitemap.xml",
-        "",
-        "",
-        ""
-      ],
-      "img_src": "",
-      "priority": "",
-      "engines": [
-        "google"
       ],
       "positions": [
         3
@@ -511,17 +513,17 @@
       "category": "general"
     },
     {
-      "title": "2024清迈水灯节与万人天灯节攻略 | 泰国必体验节日",
-      "url": "https://yohomobile.com/zh-CN/lantern-festival-thailand-loy-krathong-2024",
-      "content": "探索2024年泰国清迈水灯节与万人天灯节的魅力! 获取最佳观赏点、活动参与方式、旅行贴士及Yoho Mobile优惠码，体验难忘的漂浮灯笼盛典。",
+      "title": "清迈水灯节——飘在风中的传说 - 蚂蜂窝 - mafengwo.cn",
+      "url": "https://itf.mafengwo.cn/client/note.php/info/?id=5354388",
+      "content": "水灯节是泰国的传统节日，特别是清迈的水灯节在全泰国最盛大、最热闹，清迈的万人天灯被誉为泰国七大奇迹之一，每年11月末水灯节期间，清迈都要举行诵经祈福仪式、水灯制作比赛、选美比赛、花车游行、焰火表演等丰富多彩的活动，真的是愈夜愈美丽，令人眼花缭乱。 水灯节期间，清迈大街小巷和家家户户都会挂满灯笼，人们就象过年一样，都会手捧各式各样的水灯到河边漂放，或祈求爱情永远，或祝福家人平安幸福。 许完心愿后，再把水灯放在水面上，让其随着水流而去……水灯节之夜，郊外的Lanna Dhutanka Buddhist Center会举行盛大的万人天灯仪式，当万盏天灯一起升空时，漫天灯火随风摇曳，如星空绚烂，如银河璀璨，惊艳了黑夜，场面壮观而震撼。",
       "engine": "duckduckgo",
       "template": "default.html",
       "parsed_url": [
         "https",
-        "yohomobile.com",
-        "/zh-CN/lantern-festival-thailand-loy-krathong-2024",
+        "itf.mafengwo.cn",
+        "/client/note.php/info/",
         "",
-        "",
+        "id=5354388",
         ""
       ],
       "img_src": "",
@@ -617,15 +619,15 @@
       "category": "general"
     },
     {
-      "title": "泰国水灯节，必去五大庙宇探寻传统节日奥秘 - 一签泰国网",
-      "url": "http://www.ntycg.com/27885.html",
-      "content": "清迈水灯节的主要习俗包括在契迪龙寺（Wat Chedi Luang）内的\"城市支柱\"进行鲜花、上香等活动，庆典活动还包括舞蹈、音乐、游行等，在泰历12月15日为中心，持续3天的庆祝活动中，泰国男女老少会将树叶制作的水灯放入河中，表达对亲人、爱人的思念 ...",
+      "title": "为什么举行泰国水灯节?泰国节日水灯节-泰国旅游信息网",
+      "url": "https://www.thailandtr.cn/archives/48451",
+      "content": "按照泰国传统习俗，泰国人将在水灯节当天将亲手制作的水灯放入河流中，以寄托心中美好的愿望和祝福。 所以水灯节的意义在于祈福、寄托美好的祝愿。",
       "engine": "duckduckgo",
       "template": "default.html",
       "parsed_url": [
-        "http",
-        "www.ntycg.com",
-        "/27885.html",
+        "https",
+        "www.thailandtr.cn",
+        "/archives/48451",
         "",
         "",
         ""
@@ -696,15 +698,15 @@
       "category": "general"
     },
     {
-      "title": "为什么举行泰国水灯节?泰国节日水灯节-泰国旅游信息网",
-      "url": "https://www.thailandtr.cn/archives/48451",
-      "content": "2、交大水灯节由来如下：水灯节是在泰国的传统节日中，每年的11月份都要举行\"水灯节\"，这是一个充分体现泰国青年男女旖旎恋情的节日。",
+      "title": "2024清迈水灯节与万人天灯节攻略 | 泰国必体验节日",
+      "url": "https://yohomobile.com/zh-CN/lantern-festival-thailand-loy-krathong-2024",
+      "content": "水灯节 (Loy Krathong) 和万人天灯节 (Yee Peng) 是泰国最棒的两个节日。 2024年的水灯节主要是将制作精美的水灯放入河流中漂流，而万人天灯节则更侧重于万千灯笼点亮夜空。",
       "engine": "duckduckgo",
       "template": "default.html",
       "parsed_url": [
         "https",
-        "www.thailandtr.cn",
-        "/archives/48451",
+        "yohomobile.com",
+        "/zh-CN/lantern-festival-thailand-loy-krathong-2024",
         "",
         "",
         ""
@@ -802,15 +804,15 @@
       "category": "general"
     },
     {
-      "title": "泰国清迈水灯节放天灯 · 完全避开踩雷6心得",
-      "url": "https://mylovelybluesky.com/travel/thailand/thailand-attractions/loi-krathong-sky-lantern-festival/",
-      "content": "水灯节（英语：Loi Krathong）是泰国北部及其周边部分国家的传统节日，按照泰国传统习俗，水灯节期间将水灯放入河流中，以寄托心中的美好愿望。 其实并没有天灯节这个概念，而是清迈当地庆祝水灯节有放天灯的习俗，称Yi-Peng，同样也是一种祈祷平安顺利的仪式。 水灯节落在每年泰国阴历十二月十五日（公历10月/11月，农历10月15日）。 每逢水灯节的夜晚，河边或湖边的地方，水面上都会飘满水灯（泰语：กระทง）。 按照泰国传统习俗，泰国人将在水灯节当天将亲手制作的水灯放入河流中，以寄托心中的愿望和祝福。 当我完成了这次的放孔明灯体验，开心在社交媒体分享。",
+      "title": "灿若星河!泰国清迈点亮数千盏天灯祈求平安|节日|水灯节 ...",
+      "url": "https://www.163.com/dy/article/JH4OA2F70514EGPO.html",
+      "content": "当地时间11月15日，泰国北部城市清迈迎来了传统节日\"水灯节\"。每年的这一天，当地人除了放水灯之外，还有放天灯的习俗，这一浪漫唯美的场景是清迈\"水灯节\"期间最吸引国内外游客的旅游项目之一。",
       "engine": "duckduckgo",
       "template": "default.html",
       "parsed_url": [
         "https",
-        "mylovelybluesky.com",
-        "/travel/thailand/thailand-attractions/loi-krathong-sky-lantern-festival/",
+        "www.163.com",
+        "/dy/article/JH4OA2F70514EGPO.html",
         "",
         "",
         ""
@@ -855,15 +857,15 @@
       "category": "general"
     },
     {
-      "title": "12月份清迈旅游穿衣,清迈12月穿衣建议 - 旅游之窗网",
-      "url": "http://www.witchsbroomcloset.com/post/68114.html",
-      "content": "大家好，今天小编关注到一个比较有意思的话题，就是关于12月份清迈旅游穿衣的问题，于是小编就整理了4个相关介绍12月份清迈旅游穿衣的解答，让我们一起看看吧。",
+      "title": "泰国清迈水灯节放天灯 · 完全避开踩雷6心得",
+      "url": "https://mylovelybluesky.com/travel/thailand/thailand-attractions/loi-krathong-sky-lantern-festival/",
+      "content": "水灯节（英语：Loi Krathong）是泰国北部及其周边部分国家的传统节日，按照泰国传统习俗，水灯节期间将水灯放入河流中，以寄托心中的美好愿望。 其实并没有天灯节这个概念，而是清迈当地庆祝水灯节有放天灯的习俗，称Yi-Peng，同样也是一种祈祷平安顺利的仪式。 水灯节落在每年泰国阴历十二月十五日（公历10月/11月，农历10月15日）。 每逢水灯节的夜晚，河边或湖边的地方，水面上都会飘满水灯（泰语：กระทง）。 按照泰国传统习俗，泰国人将在水灯节当天将亲手制作的水灯放入河流中，以寄托心中的愿望和祝福。 当我完成了这次的放孔明灯体验，开心在社交媒体分享。",
       "engine": "duckduckgo",
       "template": "default.html",
       "parsed_url": [
-        "http",
-        "www.witchsbroomcloset.com",
-        "/post/68114.html",
+        "https",
+        "mylovelybluesky.com",
+        "/travel/thailand/thailand-attractions/loi-krathong-sky-lantern-festival/",
         "",
         "",
         ""
@@ -935,15 +937,15 @@
       "category": "general"
     },
     {
-      "title": "2024清迈水灯节：放天灯、花车游行全在这!泰国最美节日 ...",
-      "url": "https://www.sohu.com/a/824968385_120487540",
-      "content": "而清迈水灯节/天灯节，更是因为壮观的天灯和水灯仪式吸引无数游客，每年皆成为全球瞩目的节庆地点。 近日，泰国旅游局 (TAT)就公布了2024清迈水灯节/天灯节的具体日程，想在清迈度过水灯节的朋友，可以留意下哦。",
+      "title": "2024清迈水灯节：放天灯、花车游行全在这! - Vision Thai ...",
+      "url": "https://visionthai.net/zh-hans/article/chiangmai-yipeng-festival-2024/",
+      "content": "而清迈水灯节/天灯节，更是因为壮观的天灯和水灯仪式吸引无数游客，每年皆成为全球瞩目的节庆地点。 近日，泰国旅游局(TAT)就公布了2024清迈水灯节/天灯节的具体日程，想在清迈度过水灯节的朋友，可以留意下哦。",
       "engine": "duckduckgo",
       "template": "default.html",
       "parsed_url": [
         "https",
-        "www.sohu.com",
-        "/a/824968385_120487540",
+        "visionthai.net",
+        "/zh-hans/article/chiangmai-yipeng-festival-2024/",
         "",
         "",
         ""
@@ -980,32 +982,6 @@
       "priority": "",
       "engines": [
         "brave"
-      ],
-      "positions": [
-        10
-      ],
-      "score": 0.1,
-      "category": "general"
-    },
-    {
-      "title": "灿若星河!泰国清迈点亮数千盏天灯祈求平安|节日|水灯节 ...",
-      "url": "https://www.163.com/dy/article/JH4OA2F70514EGPO.html",
-      "content": "当地时间11月15日，泰国北部城市清迈迎来了传统节日\"水灯节\"。 每年的这一天，当地人除了放水灯之外，还有放天灯的习俗，这一浪漫唯美的场景是清迈\"水灯节\"期间最吸引国内外游客的旅游项目之一。",
-      "engine": "duckduckgo",
-      "template": "default.html",
-      "parsed_url": [
-        "https",
-        "www.163.com",
-        "/dy/article/JH4OA2F70514EGPO.html",
-        "",
-        "",
-        ""
-      ],
-      "img_src": "",
-      "thumbnail": "",
-      "priority": "",
-      "engines": [
-        "duckduckgo"
       ],
       "positions": [
         10
@@ -1264,7 +1240,7 @@
   "unresponsive_engines": [
     [
       "quark",
-      "暂停服务: 验证码"
+      "验证码"
     ]
   ]
 }
