@@ -18,10 +18,10 @@ USER_AGENTS=(
 # 随机选择User-Agent
 RANDOM_UA=${USER_AGENTS[$RANDOM % ${#USER_AGENTS[@]}]}
 
-echo "🔍 开始搜索..."
-echo "📱 使用User-Agent: $RANDOM_UA"
-echo "🌐 查询内容: $QUERY"
-echo ""
+# echo "🔍 开始搜索..."
+# echo "📱 使用User-Agent: $RANDOM_UA"
+# echo "🌐 查询内容: $QUERY"
+# echo ""
 
 # 执行优化的curl请求
 curl -X POST "$SEARXNG_URL" \
