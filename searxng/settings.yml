@@ -685,6 +685,7 @@ engines:
   disabled: true
 - name: google
   engine: google
+  send_accept_language_header: true
   shortcut: go
   disabled: false
 - name: google images
