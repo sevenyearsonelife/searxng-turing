@@ -31,9 +31,9 @@ search:
   - html
   - json
 server:
-  port: 8888
-  bind_address: 127.0.0.1
-  base_url: http://10.4.85.226:9088/
+  port: 8080
+  bind_address: 0.0.0.0
+  base_url: http://10.4.85.77:9088/
   limiter: false
   public_instance: false
   secret_key: GGQTjFAKhrNfLygRy8MJ5O4qzceWMbF
